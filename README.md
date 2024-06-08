@@ -1,4 +1,5 @@
-<p >IAAEEE!!!! SOU O BRUNO HEMANN...</p>
+<p>Bruno Hemann</p>
+<p>Estudante de Ciência da Computação na URI | Santiago</p>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemannb&layout=compact&custom_title=LINGUAGENS%20MAIS%20USADAS&theme=transparent" />
