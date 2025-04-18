@@ -9,7 +9,7 @@
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="50" width="50" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
   <img align="center" height="50" width="50" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
 </div>
   <hr>  
   <div>  
