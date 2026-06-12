@@ -1,4 +1,4 @@
-# Hey, I'm Bruno 👋
+# Hey, I'm Bruno 👋          ![](https://komarev.com/ghpvc/?username=HemannB)
 
 Curious by nature. Geek at heart. I got into tech because I wanted to create things —
 and I never stopped.
