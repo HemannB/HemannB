@@ -60,16 +60,16 @@ From sensor wiring and firmware to APIs and dashboards — I like understanding 
 
   <p>
     <a href="https://github.com/HemannB/zeno">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=zeno&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="zeno" />
+      <img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=zeno&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="zeno" />
     </a>
     <a href="https://github.com/HemannB/MF-OS">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=MF-OS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="MF-OS" />
+      <img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=MF-OS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="MF-OS" />
     </a>
     <a href="https://github.com/HemannB/simple_game_in_c">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=simple_game_in_c&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="simple_game_in_c" />
+      <img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=simple_game_in_c&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="simple_game_in_c" />
     </a>
     <a href="https://github.com/HemannB/dart-flutter-labs">
-      <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=dart-flutter-labs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="dart-flutter-labs" />
+      <img width="260" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=dart-flutter-labs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="dart-flutter-labs" />
     </a>
   </p>
 
@@ -79,13 +79,13 @@ From sensor wiring and firmware to APIs and dashboards — I like understanding 
 
   <p>
     <a href="https://github.com/HemannB/AirSniffer-Firmware">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=AirSniffer-Firmware&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="AirSniffer-Firmware" />
+      <img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=AirSniffer-Firmware&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="AirSniffer-Firmware" />
     </a>
     <a href="https://github.com/HemannB/AirSniffer-API">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=AirSniffer-API&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="AirSniffer-API" />
+      <img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=AirSniffer-API&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="AirSniffer-API" />
     </a>
     <a href="https://github.com/HemannB/AirSniffer-frontend">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HemannB&repo=AirSniffer-frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="AirSniffer-frontend" />
+      <img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=HemannB&repo=AirSniffer-frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2DB329&icon_color=2DB329" alt="AirSniffer-frontend" />
     </a>
   </p>
 
@@ -98,10 +98,8 @@ From sensor wiring and firmware to APIs and dashboards — I like understanding 
 
   <div align="center">
 
-  ![](http://github-profile-summary-cards-kayan.vercel.app/api/cards/profile-details?username=HemannB&theme=aura_dark)
-
-  ![](http://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=HemannB&theme=aura_dark)
-  ![](http://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=HemannB&theme=aura_dark)
+  ![](https://github-stats-extended.vercel.app/api/?username=HemannB&show_icons=true&theme=aura_dark&rank_icon=github&include_all_commits=true&custom_title=Bruno's+Stats&enable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+  ![](https://github-stats-extended.vercel.app/api/top-langs/?username=HemannB&theme=aura_dark)
 
   </div>
 
