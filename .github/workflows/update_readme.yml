@@ -1,41 +1,49 @@
-name: Update README SVG
+name: Update Profile
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 4 * * *"
+  # Atualiza sempre que você modificar o repositório
   push:
     branches:
       - main
+
+  # Atualiza automaticamente todo dia
+  schedule:
+    - cron: "0 4 * * *"
+
+  # Permite executar manualmente pela aba Actions
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Build SVGs
+      - name: Generate profile
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python build_readme.py
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate.py
 
-      - name: Commit changes
+      - name: Commit updated profile
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add dark_mode.svg light_mode.svg
-          git diff --cached --quiet || git commit -s -m "Update profile SVG"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No profile changes."
+          else
+            git commit -m "chore: update profile stats"
+            git push
+          fi

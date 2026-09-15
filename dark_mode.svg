@@ -13,7 +13,7 @@
         }
 
         .ascii {
-            fill: #3fb950;
+            fill: #ffff;
             font-family:
                 "Courier New",
                 "Liberation Mono",
