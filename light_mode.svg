@@ -209,14 +209,14 @@
         Followers
     </text>
 
-    <text x="1035" y="325" class="value" id="follower_data">30</text>
+    <text x="1035" y="325" class="value" id="follower_data">29</text>
 
 
     <text x="875" y="353" class="label">
         Following
     </text>
 
-    <text x="1035" y="353" class="value" id="following_data">28</text>
+    <text x="1035" y="353" class="value" id="following_data">29</text>
 
 
     
